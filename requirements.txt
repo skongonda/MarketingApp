@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain-openai
+openai
+streamlit
+tiktoken
+opencv-python
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+python-dotenv
+
+-e .
